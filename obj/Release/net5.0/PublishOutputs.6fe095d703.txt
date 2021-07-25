@@ -1,0 +1,11 @@
+C:\Users\temit\Documents\newproject\forecastapi\out\forecastapi.exe
+C:\Users\temit\Documents\newproject\forecastapi\out\appsettings.Development.json
+C:\Users\temit\Documents\newproject\forecastapi\out\appsettings.json
+C:\Users\temit\Documents\newproject\forecastapi\out\forecastapi.dll
+C:\Users\temit\Documents\newproject\forecastapi\out\forecastapi.deps.json
+C:\Users\temit\Documents\newproject\forecastapi\out\forecastapi.runtimeconfig.json
+C:\Users\temit\Documents\newproject\forecastapi\out\forecastapi.pdb
+C:\Users\temit\Documents\newproject\forecastapi\out\Microsoft.OpenApi.dll
+C:\Users\temit\Documents\newproject\forecastapi\out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\temit\Documents\newproject\forecastapi\out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\temit\Documents\newproject\forecastapi\out\Swashbuckle.AspNetCore.SwaggerUI.dll
